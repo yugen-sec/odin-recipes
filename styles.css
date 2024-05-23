@@ -16,3 +16,7 @@ body {
     font-family: Georgia, serif;
     font-size: 1.5em;
 }
+
+.list a:link, .list a:visited{
+    color: black;
+}
